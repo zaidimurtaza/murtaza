@@ -115,6 +115,6 @@ This project demonstrates your skills in JavaScript, game logic, and creating in
 
 export const CONTACT = {
   address: "DELHI (NCR)",
-  phoneNo: "+91 9485587821 ",
+  phoneNo: "Linkdin ",
   email: "zaidimurtaza102@gmail.com",
 };
