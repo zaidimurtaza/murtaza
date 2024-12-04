@@ -18,7 +18,7 @@ const Contact = () => {
         whileInView={{opacity:1,x:0}}
         initial={{opacity:0, x: 100}}
         transition={{duration: 1}}
-     className="my-4">{<a href = "https://www.linkedin.com/in/mohd-murtaza-57816b302/">CONTACT.phoneNo}</a>} </motion.p>
+     className="my-4"><a href = "https://www.linkedin.com/in/mohd-murtaza-57816b302/">{CONTACT.phoneNo}</a></motion.p>
        
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zaidimurtaza102@gmail.com" target="_blank" rel="noopener noreferrer" className="border-b texy-center">{CONTACT.email} </a>
     </div></div>
