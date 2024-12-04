@@ -1,5 +1,6 @@
 import { CONTACT } from "../constants"
 import { motion } from "framer-motion"
+import { FaLinkedin } from "react-icons/fa"
 const Contact = () => {
   return (
     <div className="border-b border-neutral-900 pb-20">
